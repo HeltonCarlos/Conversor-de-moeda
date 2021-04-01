@@ -1,0 +1,9 @@
+*{padding: 0; margin: 0; box-sizing: border-box;font-family: 'Dela Gothic One', cursive;
+font-family: 'Roboto Mono', monospace;color:#fff;}
+
+h1{border-bottom: 2px solid ;margin-bottom: 20px;}
+.container{background-color: cornflowerblue;width: 750px;height: 340px;margin: 50px ;padding: 30px;}
+input{border: none; border-radius: 2px;padding: 8px 20px;font-size: 15px;font-weight: 700;color:#000000}
+
+p ,label{font-weight: 900;margin: 10px 0px;}
+span{font-weight: 900;background-color: cornsilk;color:cornflowerblue;padding: 1px 10px; }
